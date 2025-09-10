@@ -1,0 +1,6 @@
+transformers
+torch
+pillow
+requests
+beautifulsoup4
+pdfplumber
